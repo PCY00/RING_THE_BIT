@@ -8,6 +8,6 @@
 <br>
 2024.03.04 ver1.0.2 Bluetooth Json coding
 <br>
-2024.03.05 ver1.0.3 HeartRate Sensor( Using max30105 library ) coding
+2024.03.05 ver1.0.3 HeartRate Sensor( Using max30105 library )_test coding
 <br>
-2024.03.06 ver1.0.4 Bluetooth_json_HeartRate coding
+2024.03.06 ver1.0.4 Bluetooth_json_HeartRate_test coding
