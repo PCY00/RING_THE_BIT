@@ -2,7 +2,7 @@
 
 ## Release
 
-2024.02.21 ver1.0 Bluetooth coding
+2024.02.21 ver1.0.0 Bluetooth coding
 <br>
 
 <br>
