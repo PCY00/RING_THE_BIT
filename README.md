@@ -11,3 +11,5 @@
 2024.03.06 ver1.0.4 Bluetooth_HeartRate_test coding
 <br>
 2024.03.09 ver1.0.5 Bluetooth_HeartRate_test fix
+<br>
+2024.03.10 This project has been discontinued
