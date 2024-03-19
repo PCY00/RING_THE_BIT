@@ -12,4 +12,6 @@
 <br>
 2024.03.09 ver1.0.5 Bluetooth_HeartRate_test fix
 <br>
-2024.03.10 This project has been discontinued
+
+
+## 2024.03.10 This project has been discontinued
